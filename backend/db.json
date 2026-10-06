@@ -1,0 +1,25 @@
+{
+  "contatos": [
+    {
+      "conteudo": "Josef",
+      "numero": "14991163058",
+      "id": "U19ArImebFI"
+    },
+    {
+      "conteudo": "Ester Arielle",
+      "numero": "14996603830",
+      "id": "95h33LWZAjI"
+    },
+    {
+      "conteudo": "Abner",
+      "numero": "16785643217",
+      "id": "nqN633IVqls"
+    },
+    {
+      "id": "YvPUGlJIT1E",
+      "conteudo": "João",
+      "numero": "14657865345"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

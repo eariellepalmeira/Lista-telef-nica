@@ -1,0 +1,7 @@
+Criar uma página para cadastrar contatos com:
+. Campo Nome (html,)
+. Campo Telefone(html,)
+· Botão "Cadastrar" (verde)(html,)
+. Listar os contatos cadastrados
+. Permitir editar e excluir um contato(html,)
+· Inserir imagem do contato
